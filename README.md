@@ -18,15 +18,17 @@ This project runs in **Google Colab** or any Jupyter Notebook environment.
 ## Required Library
 
 - ColabTurtle
+```bash
+pip install ColabTurtle
+```
 
 
-
-##How to run the project
-###1. Open Notebook in Google Colab
-###2. Install dependencies
-###3. Run All Code
-###4. Generate Outputs
-###5. Custom
+## How to run the project
+### 1. Open Notebook in Google Colab
+### 2. Install dependencies
+### 3. Run All Code
+### 4. Generate Outputs
+### 5. Custom
 Change the drawing by editing :
 * iterations
 * angle
