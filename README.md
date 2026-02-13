@@ -19,10 +19,7 @@ This project runs in **Google Colab** or any Jupyter Notebook environment.
 
 - ColabTurtle
 
-```bash
-pip install ColabTurtle
-```
----
+
 
 ##How to run the project
 ###1. Open Notebook in Google Colab
